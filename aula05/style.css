@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    padding-top: 70px;
+  }
+  
+  .hero {
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
+                url("carlo1.png") center/cover no-repeat;
+  }
+  
+  .pagina-topo {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
+                url("carlo1.png") center/cover no-repeat;
+    padding: 120px 0 80px;
+  }
+  
+  .card-img-top {
+    height: 220px;
+    object-fit: cover;
+  }
+  
+  footer {
+    margin-top: 0;
+  }
